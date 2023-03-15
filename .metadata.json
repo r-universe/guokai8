@@ -1,5 +1,9 @@
 [
   {
+    "package": "microbial",
+    "oncran": true
+  },
+  {
     "package": "VennDetail"
   }
 ]
