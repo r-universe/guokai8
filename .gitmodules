@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "eoffice"]
 	path = eoffice
 	url = https://github.com/cran/eoffice
-	shallow = true
-	registered = true
 [submodule "microbial"]
 	path = microbial
 	url = https://github.com/guokai8/microbial
-	shallow = true
-	registered = true
 [submodule "o2plsda"]
 	path = o2plsda
 	url = https://github.com/cran/o2plsda
-	shallow = true
-	registered = true
 [submodule "VennDetail"]
 	path = VennDetail
 	url = https://github.com/guokai8/venndetail
-	shallow = true
-	registered = true
