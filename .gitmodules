@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "VennDetail"]
-	path = VennDetail
-	url = https://github.com/guokai8/venndetail
 [submodule "eoffice"]
 	path = eoffice
 	url = https://github.com/cran/eoffice
