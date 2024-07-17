@@ -10,4 +10,4 @@
 	url = https://github.com/guokai8/microbial
 [submodule "o2plsda"]
 	path = o2plsda
-	url = https://github.com/cran/o2plsda
+	url = https://github.com/guokai8/o2plsda
