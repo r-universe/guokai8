@@ -5,6 +5,9 @@
 [submodule "eoffice"]
 	path = eoffice
 	url = https://github.com/cran/eoffice
+[submodule "fctutils"]
+	path = fctutils
+	url = https://github.com/guokai8/fctutils
 [submodule "microbial"]
 	path = microbial
 	url = https://github.com/guokai8/microbial
